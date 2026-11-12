@@ -8,7 +8,7 @@ A Python training notebook for classifying oral photographs, prepared as Nanyang
 
 ## Scope and contribution
 
-Coursework notebook and study notes maintained by Wai Yan Hpone Lat. The checked-in pipeline includes duplicate handling, group-aware splitting, training experiments, confidence-threshold evaluation, Grad-CAM and model export.
+Coursework notebook and study notes maintained by Wai Yan Hpone Lat. The checked-in pipeline includes duplicate handling, group-aware splitting, training experiments, confidence-threshold evaluation, Grad-CAM focus circles (the area the model relied on, drawn on the photo) and model export.
 
 This student project is not a medical diagnosis or a clinically validated tool. Model quality must be assessed from an actual training and held-out evaluation run; repository documentation is not clinical evidence.
 
